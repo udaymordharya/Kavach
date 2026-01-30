@@ -1,4 +1,4 @@
-# GOLIATH: AI Bureaucracy Fighter
+# Kavach: AI Bureaucracy Fighter
 
 ![Kavach Banner](https://img.shields.io/badge/Status-Prototype-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
