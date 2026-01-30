@@ -58,10 +58,3 @@ Prerequisites: Node.js installed on your system.
 - `src/agents`: Logic for the AI agent interactions.
 - `src/ui`: Reusable UI components (buttons, cards, etc.).
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License.
