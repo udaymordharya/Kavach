@@ -1,6 +1,5 @@
 # Kavach: AI Bureaucracy Fighter
 
-![Kavach Banner](https://img.shields.io/badge/Status-Prototype-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
 **KAVACH** is an advanced AI-powered application designed to help individuals fight unfair bureaucratic denials. By leveraging a pipeline of specialized AI agents, KAVACH analyzes denial letters against policy documents to generate valid, legally-grounded appeal letters.
 
